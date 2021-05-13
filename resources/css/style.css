@@ -1,0 +1,26 @@
+/* excursion project style */
+
+body {
+  background-color: black;
+  font-family: Verdana;
+}
+
+h1, h2 {
+  color: white;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+  text-align: center;
+}
+
+/* anchor styles */
+
+a {
+  color: aquamarine;
+  display:block;
+  font-size: 16px; 
+  text-align: center;
+}
+
